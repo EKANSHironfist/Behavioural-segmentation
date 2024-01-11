@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: gaze-tracking
+Version: 0.0.1
+Summary: Gaze tracking
+Home-page: https://github.com/con-focus/con-focus-ai.git
+Author: hanjiyeon
+Author-email: jiyeon53885@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Con-focus
+A video communication service providing concentration analysis based on detection.
+## Gaze Tracking
+### B711207 한지연
+
+- Development Tools
+
+library: opencv, dlib
+
+
+
+
